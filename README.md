@@ -1,6 +1,7 @@
 # Comunicación digital inalámbrica (parte 4.1) — NRF24L01 + Raspberry Pi Pico 2W
 
 Laboratorio de **Comunicaciones Digitales** · Programa de Ingeniería en Telecomunicaciones · Universidad Militar Nueva Granada 
+
 · Periodo 2026-2
 
 **Autores:** Harol Felipe Riveros Sierra (1401660) · Salome Bohórquez Blanco (1401654)
